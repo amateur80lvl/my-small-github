@@ -11,3 +11,9 @@ Guido van Rossum
 
 Guido, you should have learned markdown at last -- Lennart Poettering
 
+
+Hi dudes -- Linus Torvalds
+
+## Conclusion
+
+Dear GitHub staff. I hope you'll fix that soon but if possible, could you leave this repository intact for historic purposes?
